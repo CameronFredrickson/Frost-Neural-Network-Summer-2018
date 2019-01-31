@@ -1,7 +1,7 @@
 # Frost-Research-2018
 1 and 2 (overlapping) handwritten digit recognition using capsule networks
 
-This work was completed under Professor Mark Stankus\*, with Alexa White\*, Grant Bernosky\*, and Tim Royston\*
+This work was completed under Professor Mark Stankus\*, with Alexa White\*, Grant Bernosky\*, and Tim Royston\* and Cameron Fredrickson\*
 
 > We chose to use Geoffrey Hinton's Capsule Network 
 > Architecture to tackle the issue of overlapping 2 digit images.
